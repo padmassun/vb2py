@@ -7,7 +7,7 @@ import vb2py.logger
 log = vb2py.logger.getLogger("VBTreeView")
 
 from PythonCard.components import tree
-from wxPython import wx
+import wx
 import sys
 from PythonCard import event, registry, widget
 from vb2py.vbclasses import Collection

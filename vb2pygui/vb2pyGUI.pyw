@@ -7,7 +7,7 @@
 
 __version__ = "0.2.2"
 
-from wxPython import wx
+import wx
 from PythonCard import model, dialog
 from vb2py import converter, vbparser, config, utils
 import os
