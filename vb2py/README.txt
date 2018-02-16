@@ -56,6 +56,11 @@ mxTextTools Installation
 
 The ``Simpleparse`` library uses the mxTextTools_ libraries. Once you have downloaded these, follow the instructions on the `mxTools homepage`_.
 
+setuptools' easy_install:
+	> easy_install egenix-mx-base
+
+pip installer:
+	> pip install egenix-mx-base
 
 PythonCard Installation
 ~~~~~~~~~~~~~~~~~~~~~~~
